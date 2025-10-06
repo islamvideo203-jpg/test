@@ -98,3 +98,4 @@ python instagram_youtube_automation.py
 2. Test with `/run_manual` command
 3. Monitor the daily automation schedule
 4. Check your YouTube channel for uploaded videos
+
