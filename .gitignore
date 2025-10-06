@@ -1,0 +1,28 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Configuration files
+config.json
+client_secret.json
+youtube_token.json
+
+# Logs
+*.log
+automation.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
